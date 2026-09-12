@@ -16,7 +16,14 @@ Manage Jenkins → Plugins → Available plugins
 
 Installed: **Role-based Authorization Strategy** and **Google Login**.
 
-> <img width="1440" height="900" alt="Screenshot 2026-09-12 at 9 55 59 PM" src="https://github.com/user-attachments/assets/55342099-1119-432e-94ce-1e69c891dde1"   <img width="1440" height="900" alt="Screenshot 2026-09-12 at 9 59 22 PM" src="https://github.com/user-attachments/assets/530b0831-f3e4-4b4d-a12d-1a61540ee1e1" />
+
+<img width="1440" height="900" alt="Screenshot 2026-09-12 at 9 59 22 PM" src="https://github.com/user-attachments/assets/11d167bd-4a52-4e8e-b886-447d69000cdd" />
+
+
+
+<img width="1440" height="900" alt="Screenshot 2026-09-12 at 9 55 59 PM" src="https://github.com/user-attachments/assets/01f348cc-3a7c-4c2b-938a-f5e80bd93f66" />
+
+
 
 
 ```
