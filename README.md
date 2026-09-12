@@ -51,7 +51,9 @@ List View, filtered by job name pattern for each team:
 * **Testing View** → test-1, test-2, test-3
 * **DevOps View** → devops-1, devops-2, devops-3
 
-> **Screenshot:** Add your views screenshot here.
+
+<img width="1440" height="900" alt="Screenshot 2026-09-12 at 11 22 21 PM" src="https://github.com/user-attachments/assets/46e679f6-9e63-41a1-86a3-bcccdabd1f32" />
+
 
 ### Create the users
 
@@ -61,7 +63,8 @@ Manage Jenkins → Users → Create User
 
 Created: developer-1, developer-2, testing-1, testing-2, devops-1, devops-2, admin-1.
 
-> **Screenshot:** Add your users screenshot here.
+<img width="1440" height="900" alt="Screenshot 2026-09-12 at 11 35 41 PM" src="https://github.com/user-attachments/assets/02845287-77a7-457e-bd87-be3f1d7818f8" />
+
 
 ### Enable Role-Based Strategy
 
