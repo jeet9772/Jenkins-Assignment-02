@@ -26,11 +26,7 @@ Installed: **Role-based Authorization Strategy** and **Google Login**.
 
 
 
-```
-Download progress - all success
-```
-
-> **Screenshot:** Add your plugin download/progress screenshot here.
+####################################################################################################
 
 ### Create the 9 jobs
 
@@ -43,9 +39,9 @@ echo "Build Number: $BUILD_NUMBER"
 
 Repeated for: `dev-1/2/3`, `test-1/2/3`, `devops-1/2/3`.
 
-> **Screenshot:** Add your 9 jobs screenshot here.
+<img width="1440" height="900" alt="Screenshot 2026-09-12 at 10 08 04 PM" src="https://github.com/user-attachments/assets/25207214-45c1-4365-b8fe-0bb61ac5270c" />
 
-> **Screenshot:** Add your Execute Shell configuration screenshot here.
+
 
 ### Create 3 views
 
