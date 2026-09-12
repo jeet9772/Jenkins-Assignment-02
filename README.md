@@ -74,7 +74,8 @@ Manage Jenkins → Security → Authorization → Role-Based Strategy → Save
 
 This strategy was chosen (over Legacy, Project-based, or Matrix-based) because it lets permissions be assigned by **regex pattern on job names** (`dev-.*`, `test-.*`, `devops-.*`), which maps directly onto the team/job-prefix structure asked for here - Matrix-based would need per-job checkboxes for every user, and Project-based would need per-job role assignment one at a time.
 
-> **Screenshot:** Add your Role-Based Strategy screenshot here.
+<img width="1440" height="900" alt="Screenshot 2026-09-12 at 11 40 20 PM" src="https://github.com/user-attachments/assets/14e741ea-1787-4eae-8da8-7197c3521e84" />
+
 
 ### Configure Global roles
 
