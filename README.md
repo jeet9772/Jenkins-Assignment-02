@@ -16,7 +16,8 @@ Manage Jenkins → Plugins → Available plugins
 
 Installed: **Role-based Authorization Strategy** and **Google Login**.
 
-> **Screenshot:** Add your plugin installation screenshot here.
+> <img width="1440" height="900" alt="Screenshot 2026-09-12 at 9 55 59 PM" src="https://github.com/user-attachments/assets/55342099-1119-432e-94ce-1e69c891dde1"   <img width="1440" height="900" alt="Screenshot 2026-09-12 at 9 59 22 PM" src="https://github.com/user-attachments/assets/530b0831-f3e4-4b4d-a12d-1a61540ee1e1" />
+
 
 ```
 Download progress - all success
