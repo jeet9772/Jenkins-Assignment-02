@@ -243,7 +243,10 @@ Client ID and Client Secret pasted in.
 
 Added `<your-google-email>` (admin's Google account) to Global roles and checked `admin`.
 
-> **Screenshot:** Add your admin Google email role assignment screenshot here.
+
+>
+> <img width="1440" height="900" alt="Screenshot 2026-09-14 at 7 29 36 PM" src="https://github.com/user-attachments/assets/ee08bb86-1767-4a3f-a022-e01568ff3ac8" />
+
 
 ### Login flow via Google
 
@@ -256,6 +259,9 @@ Added `<your-google-email>` (admin's Google account) to Global roles and checked
 Logged in as the admin Google account with full profile access - confirming Google SSO works end to end for the admin user.
 
 > **Screenshot:** Add your successful Google SSO login screenshot here.
+>
+> <img width="1440" height="900" alt="Screenshot 2026-09-14 at 7 33 29 PM" src="https://github.com/user-attachments/assets/8bba1fea-0954-4130-8530-bbf5d47b2799" />
+
 
 ## Note on Authorization Strategies
 
