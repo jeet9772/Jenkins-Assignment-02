@@ -86,7 +86,8 @@ Manage Jenkins → Manage Roles → Global roles
 * `admin` → Overall/Administer (full access)
 * `user-read` → Overall/Read (so logged-in users can at least see the dashboard shell)
 
-> **Screenshot:** Add your Global Roles screenshot here.
+<img width="1440" height="900" alt="Screenshot 2026-09-12 at 11 49 00 PM" src="https://github.com/user-attachments/assets/4f0ad349-9465-4286-aaf3-2d4e02689c5b" />
+
 
 ### Configure Item roles (the core of the access control)
 
@@ -104,6 +105,9 @@ Manage Jenkins → Manage Roles → Item roles
 | devops-view | `devops-.*` | Read only                         |
 
 > **Screenshot:** Add your Item Roles screenshot here.
+>
+> <img width="1440" height="900" alt="Screenshot 2026-09-14 at 5 52 31 PM" src="https://github.com/user-attachments/assets/518f2e9b-b459-4c62-82da-8bc801c8f5d3" />
+
 
 ### Assign roles to users - Global roles
 
