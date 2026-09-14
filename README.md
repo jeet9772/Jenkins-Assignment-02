@@ -117,7 +117,8 @@ Manage and Assign Roles → Assign Roles
 
 `admin-1` (and `admin`) → `admin`. All other users → `user-read` (basic dashboard access).
 
-> **Screenshot:** Add your Global Role Assignment screenshot here.
+> <img width="1440" height="900" alt="Screenshot 2026-09-14 at 6 18 17 PM" src="https://github.com/user-attachments/assets/441a1318-8c51-49d0-ae72-7b4af963324b" />
+
 
 ### Assign roles to users - Item roles
 
@@ -130,6 +131,9 @@ Manage and Assign Roles → Assign Roles
 This matches the requirement exactly: developers only touch dev jobs; testers get full control of test jobs and can view dev jobs; devops gets full control of devops jobs and can view both dev and test jobs.
 
 > **Screenshot:** Add your Item Role Assignment screenshot here.
+>
+> <img width="1440" height="900" alt="Screenshot 2026-09-14 at 6 33 41 PM" src="https://github.com/user-attachments/assets/28674d58-eb29-4a34-9a95-297e289d6298" />
+
 
 ## Verify using every user login
 
