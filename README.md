@@ -198,7 +198,8 @@ App name "Jenkins SSO", support email set.
 
 Scopes requested: `userinfo.email`, `userinfo.profile`, `openid`.
 
-> **Screenshot:** Add your OAuth scopes screenshot here.
+<img width="1440" height="900" alt="Screenshot 2026-09-14 at 7 02 27 PM" src="https://github.com/user-attachments/assets/d1d73c3c-5f1e-4abf-830f-926493964159" />
+
 
 ### Create credentials (OAuth client ID)
 
@@ -209,6 +210,9 @@ Application type: Web application
 
 > **Screenshot:** Add your OAuth client ID configuration screenshot here.
 
+<img width="1440" height="900" alt="Screenshot 2026-09-14 at 7 12 31 PM" src="https://github.com/user-attachments/assets/b7e51de4-b2ca-483e-9b0d-234eed220690" />
+
+
 Client ID and secret generated:
 
 ```
@@ -217,6 +221,9 @@ Client Secret: <your-client-secret>
 ```
 
 > **Screenshot:** Add your generated OAuth credentials screenshot here.
+
+<img width="1440" height="900" alt="Screenshot 2026-09-14 at 7 16 13 PM" src="https://github.com/user-attachments/assets/a6fe19aa-48da-44fc-8b8c-3da4a87594f3" />
+
 
 ### Configure Jenkins Security Realm
 
@@ -227,6 +234,10 @@ Manage Jenkins → Security → Authentication → Security Realm → Login with
 Client ID and Client Secret pasted in.
 
 > **Screenshot:** Add your Jenkins Google Login configuration screenshot here.
+
+
+<img width="1440" height="900" alt="Screenshot 2026-09-14 at 7 23 33 PM" src="https://github.com/user-attachments/assets/f6a9ac3b-a41c-46b7-9ba8-7b1911a06866" />
+
 
 ### Grant the admin's Google email the admin role
 
