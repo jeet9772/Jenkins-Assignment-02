@@ -182,13 +182,19 @@ Same as testing-1.
 console.cloud.google.com → New Project: "Jenkins-SSO"
 ```
 
-> **Screenshot:** Add your Google Cloud project screenshot here.
+> **Screenshot:** Add your Google Cloud project
+>
+> <img width="1440" height="900" alt="Screenshot 2026-09-14 at 6 55 01 PM" src="https://github.com/user-attachments/assets/41c37574-8bb4-401f-93a4-f05c5b62d0b9" />
+
 
 ### Configure OAuth consent screen
 
 App name "Jenkins SSO", support email set.
 
-> **Screenshot:** Add your OAuth consent screen screenshot here.
+> **Screenshort###############
+>
+> <img width="1440" height="900" alt="Screenshot 2026-09-14 at 7 02 27 PM" src="https://github.com/user-attachments/assets/eabe9f90-e7df-4228-8ec7-98b52e565bdb" />
+
 
 Scopes requested: `userinfo.email`, `userinfo.profile`, `openid`.
 
