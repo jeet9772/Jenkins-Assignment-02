@@ -141,37 +141,38 @@ This matches the requirement exactly: developers only touch dev jobs; testers ge
 
 Only sees `dev-1/2/3`, only the "Developer View" tab.
 
-> **Screenshot:** Add your developer-1 login screenshot here.
 
 ### developer-2
 
 Same as developer-1.
 
-> **Screenshot:** Add your developer-2 login screenshot here.
+<img width="1440" height="900" alt="Screenshot 2026-09-14 at 6 39 59 PM" src="https://github.com/user-attachments/assets/56203370-caa8-4231-9935-5b7217cbb651" />
+
+
 
 ### devops-1
 
 Sees all 9 jobs (dev, devops, test) across all 3 view tabs, but build (▶) buttons only appear on devops jobs.
 
-> **Screenshot:** Add your devops-1 login screenshot here.
 
 ### devops-2
 
 Same as devops-1.
 
-> **Screenshot:** Add your devops-2 login screenshot here.
+<img width="1440" height="900" alt="Screenshot 2026-09-14 at 6 42 25 PM" src="https://github.com/user-attachments/assets/fa9867b3-5238-4233-9aaa-374ce624b639" />
+
 
 ### testing-1
 
-Sees dev + test jobs only (no devops), build buttons only on test jobs.
+Sees dev + test jobs only (no devops), build buttons only on test job<img width="1440" height="900" alt="Screenshot 
 
-> **Screenshot:** Add your testing-1 login screenshot here.
 
 ### testing-2
 
 Same as testing-1.
 
-> **Screenshot:** Add your testing-2 login screenshot here.
+<img width="1440" height="900" alt="Screenshot 2026-09-14 at 6 43 48 PM" src="https://github.com/user-attachments/assets/a351d6ee-e2bf-45d2-978f-4d5b300442e9" />
+
 
 ## Part 2: Enable Google SSO for Admin
 
